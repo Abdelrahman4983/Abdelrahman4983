@@ -27,6 +27,6 @@
 
 <p align="center" dir="auto">
   <a href="https://github.com/wervlad">
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman4983&show_icons=true&locale=en&layout=compact" alt="abdelrahman4983" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman4983&show_icons=true&locale=en" alt="abdelrahman4983" />
 </p>
+
