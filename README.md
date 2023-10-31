@@ -1,5 +1,5 @@
-# My New Account: https://github.com/AMustafa4983
-# you can reach me: abdelrahmanmohamed4983@gmail.com
+### My New Account: https://github.com/AMustafa4983
+### you can reach me: abdelrahmanmohamed4983@gmail.com
 
 # 💫 About Me:
 👋 Hi, I'm Abdelrahman!<br><br>🎓 I'm a Data Scientist with a passion for software engineering and data science. I love solving complex problems and building innovative solutions that have a positive impact on people's lives.<br><br>💻 My expertise lies in Machine Learning & Data Science & AI. I have experience in developing web applications, implementing machine learning algorithms, and analyzing large datasets to derive valuable insights.<br><br>🌟 Throughout my career, I have collaborated on various projects and worked in multidisciplinary teams, which has sharpened my communication and problem-solving skills. I'm always eager to learn and stay up-to-date with the latest technologies and trends in the industry.<br><br>🚀 Currently, I'm focused on Researches in Machine Learning Field. I believe in continuous improvement and enjoy taking on new challenges that push me out of my comfort zone.<br><br>🌱 I’m currently learning Docker and Machine learning deployment services<br><br>🌎 Apart from coding, I enjoy Making Videos And singing. It helps me find balance and fuels my creativity.<br><br>📫 If you have any questions, or ideas, or just want to connect, feel free to reach out to me. I'm always open to new opportunities and collaborations.<br><br>Let's build amazing things together! ✨
